@@ -6,4 +6,4 @@
 
 Soon we will be releasing Sketch templates and other handy files for web design projects.
 
-In the meantime, checkout the [Skella front end](https://github.com/podipo/skella/) and [Skella back end](https://github.com/podipo/skellago/) projects.
+In the meantime, check out the [Skella front end](https://github.com/podipo/skella/) and [Skella back end](https://github.com/podipo/skellago/) projects.
